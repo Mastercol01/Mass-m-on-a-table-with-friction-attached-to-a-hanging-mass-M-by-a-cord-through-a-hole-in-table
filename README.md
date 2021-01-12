@@ -1,6 +1,7 @@
 ## Numerical solution to the problem of a body of mass (m)on a table, with friction, attached to a hanging a body of hanging mass (M) by a cord through a hole in the table.
 
 **Description**
+
 This was a project made for fun, in order to practice some coding.
 
 It just aims to solve a simple physical problem of classical mechanics.
