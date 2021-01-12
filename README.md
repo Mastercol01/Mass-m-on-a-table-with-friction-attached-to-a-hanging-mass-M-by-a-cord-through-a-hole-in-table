@@ -7,7 +7,7 @@ If this code is of any help to you, you find any mistakes (grammar or code wise)
 
 ## Note:
 The simulation results tend to be more accurate the smaller the value of the dt is.
-However, proccessing time also tends to go up. A dt= 1 microsecond is recomended for a middel ground.
+However, proccessing time also tends to go up. A dt= 1 microsecond is recomended for a middle ground.
 
 ## Last update:
 12/01/2021
