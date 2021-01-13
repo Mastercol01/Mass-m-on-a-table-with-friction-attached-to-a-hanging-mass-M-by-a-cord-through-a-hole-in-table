@@ -126,7 +126,7 @@ if L<max(Rad):
 if (M/m)<=miu:
     print("WARNING: The coefficient of friction (miu) is greater than the cocient M/m. The simulation will be accurate only as long as (M/m)>miu ")    
         
-#Calculation of the position of the surface body in cartesian coordinates
+#Calculation of the position of the bodies in cartesian coordinates
 X=Rad*np.cos(Phi) 
 Y=Rad*np.sin(Phi)
 Z=abs(Rad)-L 
